@@ -1,0 +1,21 @@
+Package: nginx
+Version: 1.22.0-1~bionic
+Architecture: amd64
+Maintainer: NGINX Packaging <nginx-packaging@f5.com>
+Installed-Size: 5051
+Depends: libc6 (>= 2.27), libpcre2-8-0 (>= 10.31), libssl1.1 (>= 1.1.1), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6), adduser
+Conflicts: nginx-common, nginx-core
+Replaces: nginx-common, nginx-core
+Provides: httpd, nginx, nginx-r1.22.0
+Homepage: https://nginx.org
+Priority: optional
+Section: httpd
+Filename: pool/main/n/nginx/nginx_1.22.0-1~bionic_amd64.deb
+Size: 1312636
+SHA256: bb1d51590daad211fe64d0d3c6537641434d4244e5339c34d0bbe29096e921fe
+SHA1: e2d60d50fcd2ea23ec207a43978b0319d135061c
+MD5sum: f8e67f29bfc90ee63edf3a56b6356313
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+

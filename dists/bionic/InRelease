@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ubuntu
+Label: ubuntu
+Suite: bionic
+Codename: bionic
+Date: Fri, 02 Sep 2022 13:50:41 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for danny50610 personal use
+MD5Sum:
+ 619fc4cb817df908ab202bd67086a912 793 main/binary-amd64/Packages
+ a5f24a477e25863f7a62ad81d8e567a8 518 main/binary-amd64/Packages.gz
+ 30758e73c0b732800312b63a03b6ae9b 137 main/binary-amd64/Release
+SHA1:
+ eb5e8806cbfa0a0f3ea38ba39250642dd51c4541 793 main/binary-amd64/Packages
+ 66b95a818a1f8d8096b861dffcd3895b6fd5fd57 518 main/binary-amd64/Packages.gz
+ 51cd336219258f5a55c9697da06a541022aa93a7 137 main/binary-amd64/Release
+SHA256:
+ 9fdaf1bd71ad7752f1abcceea6c8e824cf99883b19fa211fe6581ac4d0964b2d 793 main/binary-amd64/Packages
+ 9a3e4b11b415a1e3caa5880c1de189b9a723139826c3d12a8f3ce178502e5062 518 main/binary-amd64/Packages.gz
+ bde53ff597fdfe64fe171bc70928b8c750a8f4ed16be2e069da74ddc0dc2202c 137 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE3fsrs05/sDEOaVZNfYXGFQLVY08FAmMSCjgACgkQfYXGFQLV
+Y0+fqQ/+Mq8MnI8d6Un8IYN9NNttYQrGHRWU8V/ZGNegq/iF0iC3q+zPVh5mIPTH
+n0PFRDqpMq7mIyiQpNy7nfGpSkxrypLyIO01Ap550N44EyviP89vEnVOEonSRTV/
+AKJBN+pE931iVCDkFwUUV/AFXFJFOhA/59YBza6E60EtiaGLsRNp6spnbMOlBMa5
+YdSTOMTdCoWzf1BdztwgsB2xAnHPDb6Lp6NgJA1gO9Nh02uJPa/RiT+rKIaCka0b
+LhuRaLZPS5LkZdxwZeCwofkEK0uPR2/WClh/xbMSs6jj+ko2xCxZ+8Dty70XIdP4
+L4hhFs4Y6xvZhDd7rYPU7OOULZUK6b2ugBK5at4bMJqWR29Eyn+GmcmEffqfrRT5
+aQkUk2UmntejfA89miIKxJhTBgg3V9TEmj/kJ+c0UG3lP6dmfFtVMjE7r3TQRf/J
+79ykZF3GlTLt+a7aFUlTvZW6J4nGZ6y6rwg1Xa1BnYdd23ofU5Rf2WkH6mM2tvSU
+fDZjUiGw8O5VzZcoCJZ8RgnRYZsqWOEtPC9kVU/B1GfHm0iHrNEYRNMcqDTx8SWl
+owALNQ/pPJLWEy4yG/bWkN/xpMiiGkNbHQ9cwmnIRMJdZLNbJPMtANtKjFLtUTFH
+Vrj38fTZuUB3ZY9LP1EPeHho0EPDZTLltgrQufMWm9uTyTmgOvs=
+=4U+y
+-----END PGP SIGNATURE-----

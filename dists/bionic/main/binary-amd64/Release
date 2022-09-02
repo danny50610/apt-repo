@@ -1,0 +1,6 @@
+Archive: bionic
+Component: main
+Origin: ubuntu
+Label: ubuntu
+Architecture: amd64
+Description: Apt repository for danny50610 personal use
