@@ -1,3 +1,33 @@
+Package: mozjpeg
+Version: 4.0.4-20210513
+Architecture: amd64
+Essential: no
+Maintainer: The mozjpeg Project <information@mozjpeg.org>
+Homepage: http://www.mozjpeg.org
+Installed-Size: 2684
+Priority: optional
+Section: misc
+Filename: pool/main/m/mozjpeg/mozjpeg_4.0.4-20210513_amd64.deb
+Size: 401888
+SHA256: 26294c7f72da68d346f509781b74da4f442cae5cb7fd2ed006eaaa4fa3224fc8
+SHA1: cf39da6b0d7b2d22d864a7d227d38ae9dec1786e
+MD5sum: 47a4bd044e945846f76d728b1b630367
+Description: A JPEG codec that provides increased compression for JPEG images (at the expense of compression performance)
+ mozjpeg is a fork of libjpeg-turbo that aims to speed up load times of web
+ pages by reducing the size (and, by extension, the transmission time) of JPEG
+ files.  It accomplishes this by enabling optimized Huffman trees and
+ progressive entropy coding by default in the JPEG compressor, as well as
+ splitting the spectrum of DCT coefficients into separate scans and using
+ Trellis quantisation.
+ .
+ Although it is based on libjpeg-turbo, mozjpeg is not intended to be a
+ general-purpose or high-performance JPEG library.  Its performance is highly
+ "asymmetric".  That is, the JPEG files it generates require much more time to
+ compress than to decompress.  When the default settings are used, mozjpeg is
+ considerably slower than libjpeg-turbo or even libjpeg at compressing images.
+ Thus, it is not generally suitable for real-time compression.  It is best used
+ as part of a web encoding workflow.
+
 Package: nginx
 Version: 1.22.0-1~bionic
 Architecture: amd64

@@ -5,35 +5,35 @@ Origin: ubuntu
 Label: ubuntu
 Suite: bionic
 Codename: bionic
-Date: Fri, 02 Sep 2022 13:50:41 UTC
+Date: Sun, 09 Oct 2022 06:06:16 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for danny50610 personal use
 MD5Sum:
- 619fc4cb817df908ab202bd67086a912 793 main/binary-amd64/Packages
- a5f24a477e25863f7a62ad81d8e567a8 518 main/binary-amd64/Packages.gz
+ 85d49e95ee37ecf191be4b59f510f66d 2275 main/binary-amd64/Packages
+ ba30a01bef636baa311307a0e65aea58 1237 main/binary-amd64/Packages.gz
  30758e73c0b732800312b63a03b6ae9b 137 main/binary-amd64/Release
 SHA1:
- eb5e8806cbfa0a0f3ea38ba39250642dd51c4541 793 main/binary-amd64/Packages
- 66b95a818a1f8d8096b861dffcd3895b6fd5fd57 518 main/binary-amd64/Packages.gz
+ fafd5a4e4e8989d3ce482743c1acb9e635cd35fa 2275 main/binary-amd64/Packages
+ 19e73b36cb4a87701500a632fea4be087445a5f2 1237 main/binary-amd64/Packages.gz
  51cd336219258f5a55c9697da06a541022aa93a7 137 main/binary-amd64/Release
 SHA256:
- 9fdaf1bd71ad7752f1abcceea6c8e824cf99883b19fa211fe6581ac4d0964b2d 793 main/binary-amd64/Packages
- 9a3e4b11b415a1e3caa5880c1de189b9a723139826c3d12a8f3ce178502e5062 518 main/binary-amd64/Packages.gz
+ e97b5c16a51ecf6d6f1e76209593f4f3a73e8fe51b1d845b5ae8fbae62018860 2275 main/binary-amd64/Packages
+ 7dbeabbaa82fd7ad213e0ae1d539b5cd8bfb29b01f67a8bf12e5077d5ef55171 1237 main/binary-amd64/Packages.gz
  bde53ff597fdfe64fe171bc70928b8c750a8f4ed16be2e069da74ddc0dc2202c 137 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3fsrs05/sDEOaVZNfYXGFQLVY08FAmMSCjgACgkQfYXGFQLV
-Y0+fqQ/+Mq8MnI8d6Un8IYN9NNttYQrGHRWU8V/ZGNegq/iF0iC3q+zPVh5mIPTH
-n0PFRDqpMq7mIyiQpNy7nfGpSkxrypLyIO01Ap550N44EyviP89vEnVOEonSRTV/
-AKJBN+pE931iVCDkFwUUV/AFXFJFOhA/59YBza6E60EtiaGLsRNp6spnbMOlBMa5
-YdSTOMTdCoWzf1BdztwgsB2xAnHPDb6Lp6NgJA1gO9Nh02uJPa/RiT+rKIaCka0b
-LhuRaLZPS5LkZdxwZeCwofkEK0uPR2/WClh/xbMSs6jj+ko2xCxZ+8Dty70XIdP4
-L4hhFs4Y6xvZhDd7rYPU7OOULZUK6b2ugBK5at4bMJqWR29Eyn+GmcmEffqfrRT5
-aQkUk2UmntejfA89miIKxJhTBgg3V9TEmj/kJ+c0UG3lP6dmfFtVMjE7r3TQRf/J
-79ykZF3GlTLt+a7aFUlTvZW6J4nGZ6y6rwg1Xa1BnYdd23ofU5Rf2WkH6mM2tvSU
-fDZjUiGw8O5VzZcoCJZ8RgnRYZsqWOEtPC9kVU/B1GfHm0iHrNEYRNMcqDTx8SWl
-owALNQ/pPJLWEy4yG/bWkN/xpMiiGkNbHQ9cwmnIRMJdZLNbJPMtANtKjFLtUTFH
-Vrj38fTZuUB3ZY9LP1EPeHho0EPDZTLltgrQufMWm9uTyTmgOvs=
-=4U+y
+iQIzBAEBCgAdFiEE3fsrs05/sDEOaVZNfYXGFQLVY08FAmNCZN0ACgkQfYXGFQLV
+Y0/aKA//XiNwgl4VZql3IwQ0bpT2wDA7KG/vBri0x/6lBPqBpJxjpfv24XGIpePk
+NJts+/riavOdrgx03OEYKAbXWdWSDIKa2/TkWopGOKC0mCZ4D9AOE2hEHF8fdBIS
+m5w0kvdUvKuZpnqprsIMU+HZaKV6IAOqSsNYpl4dQFwKR22+eVjS9YLaoNC/B89Z
+UTyHOd8ZvIi/YL3YYHaAPY8U87bcgS2JeAQScj0EjxiS7krhtfu84T2+0JbXegN6
+cAhRz4AuD0lLFqxBGVnwpT+rQHWeC4Y6yJAel/zYQlNgLrNtgVVZNQ1uaFNJNQ6R
+Ja7my7erKjI8JpToGuZZWjXafMmyBJCSOSsX+qcBNPlJkD0WuWM6MSEDXJ2pEnke
+02exhwnP0yNJZhAiI7fECdMZafubtYbDrgdrvWmcldSGKdeQZTypMetmv/NhRCd1
+KOwJadj94w7Wa6TtveKZpbCPwPjWAEHx/smT2WTR2pxAtOoV2wupJkY4A2s9RFwZ
+TjF1eD32NMkJnL8LSGGzD8f/LbtluZBELUD92KvEfDbICKdhi2+kJucLMoljXDM1
+YbWFw6AfKw+6/Ju6XWwNZ2kE/QQDnOJRt+ONu75aogKoBO2iY0YLz3w7PGLxHHtC
+WMKwRzlArwnko6L5IogMmnx4LH90IIntz0KItUP0snPU/30Q6gY=
+=//ld
 -----END PGP SIGNATURE-----

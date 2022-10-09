@@ -2,19 +2,19 @@ Origin: ubuntu
 Label: ubuntu
 Suite: bionic
 Codename: focal
-Date: Fri, 02 Sep 2022 13:51:21 UTC
+Date: Sun, 09 Oct 2022 06:06:43 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for danny50610 personal use
 MD5Sum:
- 619fc4cb817df908ab202bd67086a912 793 main/binary-amd64/Packages
- a5f24a477e25863f7a62ad81d8e567a8 518 main/binary-amd64/Packages.gz
+ 85d49e95ee37ecf191be4b59f510f66d 2275 main/binary-amd64/Packages
+ ba30a01bef636baa311307a0e65aea58 1237 main/binary-amd64/Packages.gz
  30758e73c0b732800312b63a03b6ae9b 137 main/binary-amd64/Release
 SHA1:
- eb5e8806cbfa0a0f3ea38ba39250642dd51c4541 793 main/binary-amd64/Packages
- 66b95a818a1f8d8096b861dffcd3895b6fd5fd57 518 main/binary-amd64/Packages.gz
+ fafd5a4e4e8989d3ce482743c1acb9e635cd35fa 2275 main/binary-amd64/Packages
+ 19e73b36cb4a87701500a632fea4be087445a5f2 1237 main/binary-amd64/Packages.gz
  51cd336219258f5a55c9697da06a541022aa93a7 137 main/binary-amd64/Release
 SHA256:
- 9fdaf1bd71ad7752f1abcceea6c8e824cf99883b19fa211fe6581ac4d0964b2d 793 main/binary-amd64/Packages
- 9a3e4b11b415a1e3caa5880c1de189b9a723139826c3d12a8f3ce178502e5062 518 main/binary-amd64/Packages.gz
+ e97b5c16a51ecf6d6f1e76209593f4f3a73e8fe51b1d845b5ae8fbae62018860 2275 main/binary-amd64/Packages
+ 7dbeabbaa82fd7ad213e0ae1d539b5cd8bfb29b01f67a8bf12e5077d5ef55171 1237 main/binary-amd64/Packages.gz
  bde53ff597fdfe64fe171bc70928b8c750a8f4ed16be2e069da74ddc0dc2202c 137 main/binary-amd64/Release
