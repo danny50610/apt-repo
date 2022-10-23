@@ -8,6 +8,19 @@
 ## aptly 使用筆記
 
 ### Init
+`.aptly.conf`
+```json
+...
+"FileSystemPublishEndpoints": {
+  "apt-repo": {
+    "rootDir": "/home/root/apt-repo",
+    "linkMethod": "copy",
+    "verifyMethod": "md5"
+  }
+},
+...
+```
+
 在專案外面
 ```
 aptly repo create -distribution=bionic -component=main apt-repo-bionic
