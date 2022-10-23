@@ -1,0 +1,44 @@
+Package: nginx
+Priority: optional
+Section: httpd
+Installed-Size: 4943
+Maintainer: NGINX Packaging <nginx-packaging@f5.com>
+Architecture: amd64
+Version: 1.22.1-1~bionic
+Replaces: nginx-common, nginx-core
+Provides: httpd, nginx, nginx-r1.22.1
+Depends: libc6 (>= 2.27), libpcre2-8-0 (>= 10.31), libssl1.1 (>= 1.1.1), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6), adduser
+Conflicts: nginx-common, nginx-core
+Filename: pool/main/n/nginx/nginx_1.22.1-1_bionic_amd64.deb
+Size: 1246700
+MD5sum: 5f6ff78a30d86a25b089f7da11c90308
+SHA1: cdd90a895447cb15c2f60dae88072b3d0d7dc381
+SHA256: 2e3a9dda4d99d330969579929d49a722ba3d909608c55d4ead2a4c342dfab13e
+SHA512: c36fa7c56354d53e8a90c5f7153c5d86e14b11a95222423010693391c4d4c27c9e2462fb57d2c5a157ef9b2b6dc15a93f278167755c49592b06412b6fd4ed632
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+Homepage: https://nginx.org
+
+Package: nginx
+Priority: optional
+Section: httpd
+Installed-Size: 5051
+Maintainer: NGINX Packaging <nginx-packaging@f5.com>
+Architecture: amd64
+Version: 1.22.0-1~bionic
+Replaces: nginx-common, nginx-core
+Provides: httpd, nginx, nginx-r1.22.0
+Depends: libc6 (>= 2.27), libpcre2-8-0 (>= 10.31), libssl1.1 (>= 1.1.1), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6), adduser
+Conflicts: nginx-common, nginx-core
+Filename: pool/main/n/nginx/nginx_1.22.0-1_bionic_amd64.deb
+Size: 1312636
+MD5sum: f8e67f29bfc90ee63edf3a56b6356313
+SHA1: e2d60d50fcd2ea23ec207a43978b0319d135061c
+SHA256: bb1d51590daad211fe64d0d3c6537641434d4244e5339c34d0bbe29096e921fe
+SHA512: fff447dffd254dc5d0700fbdf561bfb66137a29dbcf5735973b6aeafc6061523aa6dc7a707e90adc426f8d8e4e109b9ef5e1b17839fc8fe5640d2aa48deecb55
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+Homepage: https://nginx.org
+
