@@ -1,6 +1,6 @@
 # apt-repo
 
-使用 [aptly](https://www.aptly.info/) 生成 Debian repository
+使用 [aptly](https://www.aptly.info/) 生成 Debian repository  
 來放一些自己編譯的套件
 
 使用此 Repo 的使用方法請看：https://danny50610.github.io/apt-repo/
