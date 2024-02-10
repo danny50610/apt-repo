@@ -1,0 +1,22 @@
+Package: nginx
+Priority: optional
+Section: httpd
+Installed-Size: 5716
+Maintainer: NGINX Packaging <nginx-packaging@f5.com>
+Architecture: amd64
+Version: 1.24.0-1~jammy
+Replaces: nginx-common, nginx-core
+Provides: httpd, nginx, nginx-r1.24.0
+Depends: libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libpcre2-8-0 (>= 10.22), libssl3 (>= 3.0.0~~alpha1), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6), adduser
+Conflicts: nginx-common, nginx-core
+Filename: pool/main/n/nginx/nginx_1.24.0-1~jammy_amd64.deb
+Size: 1527414
+MD5sum: fee6712fa91a22ddac7c7f33630c3217
+SHA1: 4c61e3332d7e8543c18e03dd775749a4f9008488
+SHA256: 3d6cbb236039694c11c004ab46dd7f7f9beb9025dc2f02073c00f41efc1d3db7
+SHA512: 2da7efae877d880e395dfe66c0cb6bcbb3c7c518ad78c848aa654ef9f044a3c3ced5b11a8bab65d19e1a659cddce9945934c43e393e70d93394aa1c025f646ea
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+Homepage: https://nginx.org
+
