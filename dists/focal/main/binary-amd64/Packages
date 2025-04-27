@@ -32,6 +32,29 @@ Homepage: http://www.mozjpeg.org
 Package: nginx
 Priority: optional
 Section: httpd
+Installed-Size: 6088
+Maintainer: NGINX Packaging <nginx-packaging@f5.com>
+Architecture: amd64
+Version: 1.28.0-1~focal+danny423
+Replaces: nginx-common, nginx-core
+Provides: httpd, nginx, nginx-r1.28.0
+Depends: libc6 (>= 2.29), libcrypt1 (>= 1:4.1.0), libmaxminddb0 (>= 1.0.2), libpcre2-8-0 (>= 10.22), libssl1.1 (>= 1.1.1), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6)
+Recommends: logrotate
+Conflicts: nginx-common, nginx-core
+Filename: pool/main/n/nginx/nginx_1.28.0-1~focal+danny423_amd64.deb
+Size: 1486992
+MD5sum: 0787a055fc02b4c1391729571c9abb2d
+SHA1: 8b40d42df6eaecbd0762365a48b02c7ad772fa37
+SHA256: 8b095f64d0f4893733ecb72b3792cc82ce862be239e9ed0d41af291c89192905
+SHA512: fde9d5b481e1cb89ca9b4af60b7b789d0a5ec4e56f51ff56541d5f3876b20c5bac409ecb6b1b1dc49981c3a410dd259585f4158674e0a0ab7148759b37258502
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+Homepage: https://nginx.org
+
+Package: nginx
+Priority: optional
+Section: httpd
 Installed-Size: 6002
 Maintainer: NGINX Packaging <nginx-packaging@f5.com>
 Architecture: amd64
