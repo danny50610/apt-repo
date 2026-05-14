@@ -1,6 +1,29 @@
 Package: nginx
 Priority: optional
 Section: httpd
+Installed-Size: 6340
+Maintainer: NGINX Packaging <nginx-packaging@f5.com>
+Architecture: amd64
+Version: 1.30.1-1~noble+danny489
+Replaces: nginx-common, nginx-core
+Provides: httpd, nginx, nginx-r1.30.1
+Depends: libc6 (>= 2.34), libcrypt1 (>= 1:4.1.0), libmaxminddb0 (>= 1.0.2), libpcre2-8-0 (>= 10.22), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.1.4), lsb-base (>= 3.0-6)
+Recommends: logrotate
+Conflicts: nginx-common, nginx-core
+Filename: pool/main/n/nginx/nginx_1.30.1-1~noble+danny489_amd64.deb
+Size: 1733804
+MD5sum: ea0d77ef402d78a8e5aef3374eb378f5
+SHA1: afb28ef3a8464568cae2c86ba98a989027431087
+SHA256: a477678792d1b0e1eb5d28bbada00db3df8e1bcf0d2806a1a029f56161949d61
+SHA512: b52d9f3e0bea6a803e1c85b69d53b01cd697fdf2e2a8c63579cd1a31f96c342cc92f961e66c4bffa4c3af1004c04a3fa028c9e60a8537e96cacb4e5d52751f49
+Description: high performance web server
+ nginx [engine x] is an HTTP and reverse proxy server, as well as
+ a mail proxy server.
+Homepage: https://nginx.org
+
+Package: nginx
+Priority: optional
+Section: httpd
 Installed-Size: 6335
 Maintainer: NGINX Packaging <nginx-packaging@f5.com>
 Architecture: amd64
